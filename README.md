@@ -4,7 +4,7 @@ Ein end-to-end Machine-Learning-Projekt zur automatisierten Klassifikation von F
 
 ---
 
-## 📌 Projektübersicht
+## 📌 Projektübersicht 
 
 Die automatisierte Erkennung und Kategorisierung von Fahrzeugtypen spielt eine zentrale Rolle in modernen Transportsystemen, Mauterfassung und autonomen Fahrsystemen. In diesem Projekt analysieren und klassifizieren wir silhouettesbasierte Messwerte von Fahrzeugen mithilfe verschiedener Machine-Learning-Algorithmen.
 
